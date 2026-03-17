@@ -1,3 +1,6 @@
+# MACOS Folder system
+*.DS_Store
+
 # Compiled class file
 *.class
 
